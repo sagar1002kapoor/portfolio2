@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.4em;
+  background:linear-gradient(blue,red,pink);
+}
+
+.img1{
+  float: left;
+  height: 8cm;
+  width: cm;
+}
+
+ a{
+  text-decoration: none;
+  padding-left: 2cm;
+  color: white;
+  align-content: center;
+}
+
+.header-item {
+  text-decoration: none;
+  border-radius: 0.2em;
+  background:linear-gradient(red,black);
+  position: fixed;
+  margin: 0;
+  width: 100%;
+  border-bottom: 2px solid rgb(48, 145, 241);
+}
+li{
+  float: left;
+  padding-left: 3cm;
+  text-decoration: none;
+} 
+
+.home {
+  padding-top: 70px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.home>img {
+  width: 40%;
+}
+
+.home-info {
+  margin: 0px 0px 100px 20px;
+  padding: 1px 111px;
+}
+
+.home-info>h3 {
+  text-align: center;
+}
+
+.brief-description {
+  text-align: center;
+}
+
+.about-heading {
+  text-align: center;
+}
+
+.about {
+}
+
+.skills span {
+  padding: 0px 80px;
+  margin: 0% 1.75%;
+  background-color: white;
+  border-radius: 1cm;
+
+}
+.hobbi span {
+  padding: 0 3.6%;
+  margin: 0 2%;
+  background-color: white;
+    border-radius: 1cm;
+
+}
+
+.goal p {
+  text-align: center;
+}
+
+.contact {
+  box-sizing: border-box;
+}
+
+.email {
+  float: right;
+  width: 20%;
+}
+
+.address {
+  text-align: center;
+  float: left;
+  width: 51%;
+  margin: 8px;
+}
+
+.projects {
+  clear: both;
+}
+
+.projects {
+  box-sizing: border-box;
+}
+
+.port {
+  background-color: white;
+  margin: 6px 30px;
+  margin-left: 40px;
+  padding: 10px 0;
+  float: left;
+  width: 25%;
+}
+
+.covid {
+  background-color: white;
+  background-position: center;
+  margin: 6px 118px;
+  padding: 10px 0;
+  float: left;
+  width: 25%;
+}
+.hr{
+ width: 33%;
+}
